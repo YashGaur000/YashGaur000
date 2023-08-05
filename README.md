@@ -3,7 +3,7 @@
 <!--
 **YashGaur000/YashGaur000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Web App development using MERN stack technology.
 - 🌱 I’m currently learning MLops(outer loop) to automate the CI/CD via machine learning algorithms.
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: just two continuous email is more than enough to reach me. yashgaur3000@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Funny Developer: Use dark mode everywhere because light attracts bugs. Sorry if it's a lame joke but I kind of find it funny.
--->
+
