@@ -14,3 +14,19 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: He/him
 - ⚡ Funny Developer: Use dark mode everywhere because light attracts bugs. Sorry if it's a lame joke but I kind of find it funny.
 
+TECH STACK: 
+🖥️ Programming Languages: JavaScript: 🌐, Python: 🐍, Java: ☕,
+🏗️ Backend Frameworks: Node.js: 🟢, Django: 🎸
+🎨 Frontend Frameworks/Libraries: React: ⚛️, Bootstrap: 📦
+🗄️ Databases: MySQL: 🐬, MongoDB: 🍃
+📜Version Control: Git: 🐙
+🌐 Web Servers: Apache: 🕸️
+☁️ Cloud Services: AWS: 🚀,Azure: ☁️
+🚢 Containerization/Orchestration: Docker: 🐳
+🔄 CI/CD: GitHub Actions: 🛎️
+🛠️ DevOps Tools:
+🧪 Testing Frameworks: Pytest: 🐍🧪
+🔐 Authentication and Authorization: OAuth: 🔒
+
+
+
