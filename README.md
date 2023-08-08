@@ -15,7 +15,7 @@ Here are some ideas to get you started:-->
 - ⚡ Funny Developer: Use dark mode everywhere because light attracts bugs. Sorry if it's a lame joke but I kind of find it funny.
 
 TECH STACK: 
-🖥️ Programming Languages: JavaScript: 🌐, Python: 🐍, Java: ☕,
+🖥️ Programming Languages: JavaScript: 🌐, Python: 🐍, Java: ☕
 🏗️ Backend Frameworks: Node.js: 🟢, Django: 🎸
 🎨 Frontend Frameworks/Libraries: React: ⚛️, Bootstrap: 📦
 🗄️ Databases: MySQL: 🐬, MongoDB: 🍃
