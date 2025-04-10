@@ -5,13 +5,21 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on a Web Application leveraging AI and ML technology for the Smart India Hackathon 2023.
-- 🌱 I’m currently learning MLops(outer loop) to automate the CI/CD via machine learning algorithms.
-- 👯 I’m looking to collaborate on Open Source projects to observe and contribute my analyzing skills and coding skills to build something better for everyone.
-- 🤔 I’m looking for buddies with deep and applied use case knowledge of Blockchains, smart contracts, DeFi, DAO, Tokenomics, and everything related to it before diving deep into the world of decentralized development.
-- 💬 Ask me about anything, expand my knowledge and yours too, I'll be more than happy.
-- 📫 How to reach me: just two continuous email is more than enough to reach me.
-- 😄 Pronouns: He/him
+🧠 Passionate about bridging cutting-edge technologies—Blockchain, AI/ML, and Quantum Computing—to architect scalable, secure, and future-ready systems.
+
+🌌 Enthusiastic about Quantum Computing fundamentals and its intersection with cryptography, optimization, and next-gen computation.
+
+🔍 Constantly exploring advanced concepts like ZKPs, Tokenomics, DAO frameworks, DeFi mechanics, and distributed consensus models.
+
+⚙️ Proficient in designing and developing smart contracts, dApps, and intelligent systems with an eye for security, scalability, and real-world usability.
+
+👯 Always open to collaborating on Open Source projects and deep-tech ideas—whether it's blockchain, AI, or experimental tech.
+
+💬 Love diving into complex problems and meaningful conversations—tech, strategy, or just plain curiosity-driven.
+
+📫 Reach out with intent, insight, or ideas. I’m always up for a genuine exchange.
+
+😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
